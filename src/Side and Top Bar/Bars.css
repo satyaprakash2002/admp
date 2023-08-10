@@ -1,0 +1,20 @@
+.topbar{
+    width: 80%;
+    height: 2rem;
+    background-color: gray;
+    margin-left: 20%;
+}
+
+.logout{
+    float: right;
+    margin-right: 2rem;
+    color: whitesmoke;
+    padding: 0.2rem;
+}
+
+.logout:hover{
+    color: white;
+    background-color: black;
+    border-radius: 0.5rem;
+    
+}
